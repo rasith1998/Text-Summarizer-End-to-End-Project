@@ -9,7 +9,7 @@ project_name = "textSummarizer"
 
 list_of_files = [
     ".github/workflows/.gitkeep", # It helps to deployment
-    f"src/{project_name}/__init__.py", # It is constructer file that help to local module import
+    f"src/{project_name}/__init__.py", # It is constructer file that help to local module
     f"src/{project_name}/conponents/__init__.py",
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/utils/common.py",
